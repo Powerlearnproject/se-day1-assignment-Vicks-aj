@@ -111,6 +111,7 @@ Importance in Software Quality Assurance
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 Prompt engineering can be seen as posing questions or statements which represent excellent questions for AI models and generate optimal input to them; like a bridge that links human beings into the optimal communication channel with their AI models or data streams.
 
 Importance:
