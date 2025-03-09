@@ -95,39 +95,39 @@ Effective communication, agile methodologies, prioritization of tasks, and regul
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-1. Unit Testing: Tests individual components or units of code to ensure they function correctly.
-2. Integration Testing: Tests how multiple units of code work together to ensure seamless integration.
-3. System Testing: Tests the entire software system to ensure it meets requirements and works as expected.
-4. Acceptance Testing: Tests the software to ensure it meets the acceptance criteria and is ready for delivery.
+1. Unit Testing: Checks every little element of code to guarantee their operation.
+2. Integration Testing: Evaluates how several code units cooperate to make sure flawless integration.
+System Testing: Evaluates the whole software system against specifications and confirms expected performance.
+4. Acceptance Testing: Checks to see if the software satisfies the acceptance criteria and is set for delivery.
 
 Importance in Software Quality Assurance
-- Ensures software reliability, stability, and performance
-- Identifies and fixes defects early, reducing costs and time-to-market
-- Validates software meets requirements and user expectations
-- Provides confidence in software quality and readiness for delive
+- Assures performance, stability, and reliability of software
+- Identifying and repairing flaws early cuts time to market as well as lowers price.
+- Validates that software satisfies user expectations and specifications
+- Helps one feel confident about software quality and preparation for delivery
 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
-Prompt engineering is crafting well-defined questions/statements to elicit the best possible response from AI models. It is the bridge between humans and AI models, enabling effective communication and optimal results.
+Prompt engineering can be seen as posing questions or statements which represent excellent questions for AI models and generate optimal input to them; like a bridge that links human beings into the optimal communication channel with their AI models or data streams.
 
 Importance:
-1. Effective communication: Prompt engineering enables humans to communicate their needs clearly to AI models.
-2. Improved accuracy: Well-crafted prompts help AI models understand the context and provide more accurate responses.
-3. Relevant results: Prompt engineering ensures that AI models provide relevant and useful information.
-4. Time-saving: By asking the right questions, users can save time and avoid unnecessary follow-up queries.
-5. Enhanced user experience: Prompt engineering enables AI models to provide more helpful and informative responses, leading to a better user experience.
+- Effective communication: Prompt engineering allows humans to communicate their requirements to AI models more effectively
+- Enhanced accuracy: A good prompt guides AI models with context and results in more accurate replies.
+- Relevancy: Due to prompt engineering, AI models can generate relevant and useful data.
+- Save time: Get straight to the point and save time without have to ask follow-up questions.
+
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-Vague: "Create a program to help people."
-Detailed: "Create a free health program to help Africans aged 60+ who cannot afford paid health programs"
+One instance of a vague prompt is: "Develop a program to assist people"
 
-The improved prompt is more effective because it:
-1. Specifies the target population and program type.
-2. Clearly defines the program's objectives.
-3. Allows for tailored solutions.
+A better version would be: "Create a free health initiative meant to help African citizens 60 years and older that can't pay for paid medical services."
+
+The better prompt is more effective since it helps to:
+1. Obviously defines the particular target group and program type.
+2. Defines goals and objectives of the program.
+3. Allows for the development of custom solutions that satisfy the requirements of the indicated population.
 
